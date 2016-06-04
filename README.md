@@ -4,6 +4,7 @@ The following changes have been made:
 * split into multiple files
 * section titles align left
 * disable math packages as I never use them
+* german language support
 
 Original:
 http://www.latextemplates.com/template/short-sectioned-assignment
