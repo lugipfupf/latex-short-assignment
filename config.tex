@@ -8,6 +8,12 @@
 \usepackage[german]{babel} % English language/hyphenation
 %\usepackage{amsmath,amsfonts,amsthm} % Math packages
 
+\usepackage{geometry} % configure page geometry to use smaller margins than usually
+\geometry{a4paper, portrait, margin=1in}
+
+\usepackage[textsize=tiny]{todonotes} % handle todo and remark annotations
+\newcommand{\remark}[1]{\todo[inline,color=green!40]{#1}}
+
 \usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
 
 \usepackage{sectsty} % Allows customizing section commands
