@@ -5,6 +5,8 @@ The following changes have been made:
 * section titles align left
 * disable math packages as I never use them
 * german language support
+* smaller page margins
+* use todonotes package
 
 Original:
 http://www.latextemplates.com/template/short-sectioned-assignment
